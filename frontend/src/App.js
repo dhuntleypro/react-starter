@@ -10,7 +10,7 @@ function App() {
       <h1>nav</h1>
       <BrowserRouter basename="">
         <GlobalStyle />
-        <h1>nav2</h1>
+        <h1>nav3</h1>
         {/* <SplashPage /> */}
 
         <main>
